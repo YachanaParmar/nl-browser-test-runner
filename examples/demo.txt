@@ -1,0 +1,5 @@
+Open REPLACE_WITH_FILE_URL
+Enter Alex into First Name
+Select India from Country
+Click Submit
+Verify page contains Welcome Alex
